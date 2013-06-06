@@ -1,0 +1,85 @@
+﻿.style8
+{
+    font-family: "Lucida Grande";
+}
+
+.style9
+{
+    width: 233px;
+    height: 24px;
+    font-size: small;
+}
+
+.style10
+{
+    font-family: "Lucida Grande";
+    width: 233px;
+}
+
+.style11
+{
+    height: 24px;
+}
+
+.style12
+{
+    width: 232px;
+}
+
+.style13
+{
+    width: 232px;
+    height: 23px;
+    font-size: medium;
+}
+
+.style14
+{
+    height: 23px;
+}
+
+.style15
+{
+    font-family: "Lucida Grande";
+    width: 233px;
+    font-size: small;
+}
+
+.style16
+{
+    font-size: medium;
+}
+
+.style17
+{
+    width: 232px;
+    font-size: medium;
+}
+
+.style18
+{
+    font-size: medium;
+    height: 23px;
+}
+.style8
+{
+    height: 115px;
+}
+
+.boarder
+{
+    
+    width:600px;
+    height:100px;
+    border-bottom:1px ;
+    border-bottom-style:solid;
+    border-top:1px ;
+    border-top-style:solid;
+    border-left:1px ;
+    border-left-style:solid;
+    border-right:1px ;
+    border-right-style:solid;
+    
+    
+    
+}
